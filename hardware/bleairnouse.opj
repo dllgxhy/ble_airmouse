@@ -1,0 +1,87 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "i:\cadence_lib\lib\allegrolib\library.olb"
+        (Type "Schematic Library")))
+    (File ".\bleairnouse.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "2")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (OFFPAGELEFT-L
+      (LibraryName "D:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "D:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (MPU6050
+      (FullPartName "MPU6050.Normal")
+      (LibraryName "I:\CADENCE_LIB\LIB\ALLEGROLIB\LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (2450BM14E0003
+      (FullPartName "2450BM14E0003.Normal")
+      (LibraryName "I:\CADENCE_LIB\LIB\ALLEGROLIB\LIBRARY.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\bleairnouse.dsn")
+      (Path "Design Resources" ".\bleairnouse.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "i:\cadence_lib\lib\allegrolib\library.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 378"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1702 25 445")
+        (Scroll "-19 132")
+        (Zoom "164")
+        (Occurrence "/"))
+      (Path "J:\XUHY\GIT_PROJ\BLE_AIRMOUSE\HARDWARE\BLEAIRNOUSE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MISC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1727 50 470")
+        (Scroll "-19 157")
+        (Zoom "164")
+        (Occurrence "/"))
+      (Path "J:\XUHY\GIT_PROJ\BLE_AIRMOUSE\HARDWARE\BLEAIRNOUSE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "nrf51822"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1727 75 510")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2875 658")
+        (Zoom "457"))
+      (Path "I:\CADENCE_LIB\LIB\ALLEGROLIB\LIBRARY.OLB")
+      (Package "2450BM14E0003"))))
