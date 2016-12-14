@@ -4,6 +4,8 @@
   (Folder "Design Resources"
     (Folder "Library"
       (File "i:\cadence_lib\lib\allegrolib\library.olb"
+        (Type "Schematic Library"))
+      (File ".\library.olb"
         (Type "Schematic Library")))
     (File ".\bleairnouse.dsn"
       (Type "Schematic Design"))
@@ -60,6 +62,14 @@
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (0
+      (LibraryName
+         "D:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (NRF51822CEAAHP
+      (FullPartName "NRF51822CEAAHP.Normal")
+      (LibraryName "E:\PROJECT\GIT_PROJ\BLE_AIRMOUSE\HARDWARE\LIBRARY.OLB")
+      (DeviceIndex "0"))
     (OFFPAGELEFT-L
       (LibraryName "D:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -77,11 +87,18 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\bleairnouse.dsn")
-      (Path "Design Resources" ".\bleairnouse.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "e:\project\git_proj\ble_airmouse\hardware\bleairnouse.dsn")
+      (Path "Design Resources"
+         "e:\project\git_proj\ble_airmouse\hardware\bleairnouse.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "e:\project\git_proj\ble_airmouse\hardware\bleairnouse.dsn"
+         "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Outputs")
-      (Select "Design Resources" ".\bleairnouse.dsn" "SCHEMATIC1" "MISC"))
+      (Path "Design Resources" "Library"
+         "e:\project\git_proj\ble_airmouse\hardware\library.olb")
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -91,21 +108,41 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 25 1254 25 327")
-        (Scroll "-346 6")
-        (Zoom "58")
+        (Placement "44 0 1 -1 -1 -8 -30 50 1211 50 352")
+        (Scroll "-193 0")
+        (Zoom "75")
         (Occurrence "/"))
       (Path "E:\PROJECT\GIT_PROJ\BLE_AIRMOUSE\HARDWARE\BLEAIRNOUSE.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "nrf51822"))
+      (Page "MISC"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1211 50 352")
-        (Scroll "-32 0")
-        (Zoom "108")
+        (Placement "44 0 1 -1 -1 -8 -30 100 994 100 310")
+        (Scroll "0 26")
+        (Zoom "100")
         (Occurrence "/"))
       (Path "E:\PROJECT\GIT_PROJ\BLE_AIRMOUSE\HARDWARE\BLEAIRNOUSE.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "MISC")))
+      (Page "BLE_RF"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1211 100 509")
+        (Scroll "-168 0")
+        (Zoom "75")
+        (Occurrence "/"))
+      (Path "E:\PROJECT\GIT_PROJ\BLE_AIRMOUSE\HARDWARE\BLEAIRNOUSE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Interface"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 150 1261 150 559")
+        (Scroll "0 128")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "E:\PROJECT\GIT_PROJ\BLE_AIRMOUSE\HARDWARE\BLEAIRNOUSE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "nrf51822")))
   (MPSSessionName "xuhy"))
