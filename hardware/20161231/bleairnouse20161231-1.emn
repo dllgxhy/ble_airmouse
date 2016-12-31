@@ -1,0 +1,271 @@
+.HEADER
+BOARD_FILE    3.0    "PADS Layout 9.5"    2016/12/31.14:08:07    1
+"g:\hd\xhy\kongshu\bleairnouse20161231-1.emn"    THOU
+.END_HEADER
+.BOARD_OUTLINE    UNOWNED
+27.09
+0     -16.5                         94.5                          0     
+0     -16.5                         76.78                         0     
+0     -8.63                         63.15                         -60.0     
+0     -8.63                         49.08                         0     
+0     -8.63                         21.81                         -120.0    
+0     -8.63                         1.98                          0     
+0     351.61                        1.98                          0     
+0     351.61                        -7.86                         0     
+0     1172.48                       -7.86                         0     
+0     1172.48                       45.29                         0     
+0     1128.92                       45.29                         0     
+0     1109.48                       69.48                         -160.4    
+0     1109.48                       221.88                        0     
+0     1128.92                       246.07                        -160.4    
+0     1172.48                       246.07                        0     
+0     1172.48                       299.22                        0     
+0     351.61                        299.22                        0     
+0     351.61                        289.38                        0     
+0     -8.63                         289.38                        0     
+0     -8.63                         269.56                        0     
+0     -8.63                         242.28                        -120.0    
+0     -8.63                         228.22                        0     
+0     -16.5                         214.58                        -60.0     
+0     -16.5                         196.86                        0     
+0     -4.69                         170.7                         -131.4    
+0     -4.69                         120.66                        0     
+0     -16.5                         94.5                          -131.4    
+1     186.26                        145.68                        0     
+1     211.85                        145.68                        360   
+2     1015.0                        244.11                        0     
+2     1035.67                       244.11                        360   
+3     1015.0                        47.26                         0     
+3     1035.67                       47.26                         360   
+.END_BOARD_OUTLINE
+.DRILLED_HOLES
+8.000000 84.000000 76.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 236.000000 212.000000 PTH    BOARD    VIA    UNOWNED
+19.685039 136.685039 106.440945 PTH    J3    PIN    UNOWNED
+19.685039 164.244094 240.299213 PTH    J3    PIN    UNOWNED
+19.685039 136.685039 184.559055 PTH    J1    PIN    UNOWNED
+19.685039 164.244094 50.700787 PTH    J1    PIN    UNOWNED
+8.000000 198.000000 20.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 88.000000 260.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 88.000000 40.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 247.500000 270.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 22.000000 104.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 77.500000 212.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 22.000000 189.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 226.000000 270.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 218.000000 116.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 215.000000 180.000000 PTH    BOARD    VIA    UNOWNED
+27.559055 -16.499869 255.917297 PTH    J4    PIN    UNOWNED
+27.559055 -16.500000 181.114173 PTH    J4    PIN    UNOWNED
+27.559055 -16.500000 110.248031 PTH    J4    PIN    UNOWNED
+27.559055 -16.499790 35.444908 PTH    J4    PIN    UNOWNED
+19.685039 278.000000 116.472441 PTH    J2    PIN    UNOWNED
+19.685039 278.000000 175.527559 PTH    J2    PIN    UNOWNED
+8.000000 842.000000 52.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 836.000000 100.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 523.000000 192.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 502.500000 55.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 814.000000 128.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 992.000000 90.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 824.000000 84.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 790.000000 10.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 315.000000 145.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 651.000000 131.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 412.000000 38.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 850.000000 7.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 869.000000 7.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 874.000000 157.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 346.000000 212.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 814.000000 100.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 350.000000 45.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 830.000000 7.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 857.500000 100.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 382.000000 38.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 810.000000 10.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 760.000000 178.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 850.000000 173.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 632.000000 176.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 480.000000 55.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 734.000000 154.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 476.000000 138.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 382.000000 192.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 492.000000 125.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 432.500000 155.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 432.500000 137.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 945.000000 180.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 485.000000 172.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 982.000000 34.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 862.500000 190.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 894.000000 186.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 830.000000 187.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 252.000000 144.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 692.500000 7.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 814.000000 148.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 687.000000 190.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 977.500000 52.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 615.000000 35.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 722.500000 127.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 865.000000 127.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 794.000000 50.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 958.000000 160.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 857.000000 52.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 798.000000 142.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 1042.000000 98.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 552.500000 60.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 889.000000 49.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 630.000000 130.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 879.000000 139.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 525.000000 55.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 287.500000 35.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 325.000000 35.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 844.000000 124.000000 PTH    BOARD    VIA    UNOWNED
+12.000000 584.000000 12.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 687.500000 147.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 742.500000 190.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 648.000000 188.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 1092.500000 102.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 1084.000000 16.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 1054.000000 16.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 1104.000000 20.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 1054.000000 189.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 1086.000000 190.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 1057.500000 110.000000 PTH    BOARD    VIA    UNOWNED
+.END_DRILLED_HOLES
+.PLACEMENT
+C0402B                                       C0402                                        C3                                           
+670.0                         165.0                         0.0                           90.0      BOTTOM    PLACED    
+C0402B                                       C0402                                        C11                                          
+380.0                         82.5                          0.0                           90.0      BOTTOM    PLACED    
+C0402B                                       C0402                                        C18                                          
+270.0                         50.0                          0.0                           90.0      TOP       PLACED    
+C0402B                                       C0402                                        C10                                          
+517.5                         102.5                         0.0                           90.0      TOP       PLACED    
+C0402B                                       C0402                                        C4                                           
+940.0                         70.0                          0.0                           180.0     BOTTOM    PLACED    
+C0402B                                       C0402                                        C5                                           
+772.0                         50.0                          0.0                           90.0      BOTTOM    PLACED    
+C0402B                                       C0402                                        C6                                           
+740.0                         51.0                          0.0                           270.0     BOTTOM    PLACED    
+C0402B                                       C0402                                        C9                                           
+740.0                         116.0                         0.0                           90.0      BOTTOM    PLACED    
+C0402B                                       C0402                                        C2                                           
+692.5                         170.0                         0.0                           180.0     TOP       PLACED    
+C0402B                                       C0402                                        C15                                          
+1025.0                        165.0                         0.0                           270.0     TOP       PLACED    
+C0402B                                       C0402                                        C14                                          
+1005.0                        115.0                         0.0                           180.0     TOP       PLACED    
+C0402B                                       C0402                                        C12                                          
+460.0                         30.0                          0.0                           0.0       TOP       PLACED    
+C0402B                                       C0402                                        C1                                           
+930.0                         30.0                          0.0                           0.0       TOP       PLACED    
+C0402B                                       C0402                                        C7                                           
+662.5                         57.0                          0.0                           180.0     TOP       PLACED    
+DIP4-2_0A                                    DIP4-2_0A                                    J4                                           
+-4.69                         145.68                        0.0                           270.0     TOP       PLACED    
+L0402B                                       L0402                                        L3                                           
+990.0                         165.0                         0.0                           270.0     TOP       PLACED    
+L0402B                                       L0402                                        L1                                           
+552.5                         102.5                         0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R1                                           
+267.5                         235.0                         0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R3                                           
+380.0                         155.0                         0.0                           90.0      BOTTOM    PLACED    
+R0402                                        R0402                                        R2                                           
+345.0                         155.0                         0.0                           90.0      BOTTOM    PLACED    
+R0402                                        R0402                                        R4                                           
+345.0                         82.0                          0.0                           270.0     BOTTOM    PLACED    
+R0402                                        R0402                                        R9                                           
+996.0                         145.0                         0.0                           0.0       BOTTOM    PLACED    
+R0402                                        R0402                                        R5                                           
+595.0                         180.0                         0.0                           180.0     BOTTOM    PLACED    
+R0402                                        R0402                                        R6                                           
+710.0                         165.0                         0.0                           90.0      BOTTOM    PLACED    
+R0402                                        R0402                                        R15                                          
+940.0                         32.0                          0.0                           0.0       BOTTOM    PLACED    
+TP-1MMB                                      TP-1MM                                       TP4                                          
+502.5                         11.0                          0.0                           0.0       BOTTOM    PLACED    
+X2520                                        X2520                                        Y1                                           
+675.0                         70.0                          0.0                           90.0      BOTTOM    PLACED    
+EVQP4                                        EVQP4                                        SW3                                          
+1071.0                        146.0                         0.0                           90.0      TOP       MCAD      
+SW-3_5X2_7-SMD                               SW-3_5X2_7-SMD                               SW1                                          
+480.12                        146.57                        0.0                           0.0       BOTTOM    MCAD      
+SW-3_5X2_7-SMD                               SW-3_5X2_7-SMD                               SW2                                          
+854.13                        146.77                        0.0                           180.0     BOTTOM    MCAD      
+C0402B                                       C0402                                        C13                                          
+950.0                         80.0                          0.0                           90.0      TOP       PLACED    
+C0402B                                       C0402                                        C19                                          
+305.0                         50.0                          0.0                           90.0      TOP       PLACED    
+L0402B                                       L0402                                        L4                                           
+910.0                         80.0                          0.0                           270.0     TOP       PLACED    
+L0402B                                       L0402                                        L5                                           
+925.0                         130.0                         0.0                           180.0     TOP       PLACED    
+C0402B                                       C0402                                        C17                                          
+925.0                         160.0                         0.0                           0.0       TOP       PLACED    
+SOD723                                       SOD723                                       D1                                           
+235.0                         50.0                          0.0                           270.0     TOP       PLACED    
+BAT-JC                                       BAT-JC                                       J3                                           
+117.0                         134.0                         0.0                           0.0       TOP       PLACED    
+BAT-                                         BAT-                                         J2                                           
+278.0                         146.0                         0.0                           0.0       TOP       MCAD      
+SOD723                                       SOD723                                       D2                                           
+268.0                         236.0                         0.0                           180.0     BOTTOM    PLACED    
+C0402B                                       C0402                                        C20                                          
+535.0                         170.0                         0.0                           0.0       TOP       PLACED    
+C0402B                                       C0402                                        C8                                           
+570.0                         35.0                          0.0                           0.0       BOTTOM    PLACED    
+LED_RGB_1MMX1MM                              LED_RGB_1MMX1MM                              U3                                           
+1060.0                        145.0                         0.0                           0.0       BOTTOM    PLACED    
+R0402                                        R0402                                        R10                                          
+996.0                         110.0                         0.0                           0.0       BOTTOM    PLACED    
+R0402                                        R0402                                        R11                                          
+996.0                         180.0                         0.0                           180.0     BOTTOM    PLACED    
+R0402                                        R0402                                        R12                                          
+595.0                         110.0                         0.0                           0.0       BOTTOM    PLACED    
+R0402                                        R0402                                        R13                                          
+595.0                         145.0                         0.0                           180.0     BOTTOM    PLACED    
+BAT-JC                                       BAT-JC                                       J1                                           
+117.0                         157.0                         0.0                           180.0     BOTTOM    PLACED    
+ANT_3                                        ANT_3                                        ANT1                                         
+940.0                         154.0                         0.0                           0.0       TOP       PLACED    
+NRF51822WLCSPA                               NRF51822WLCSP                                U1                                           
+810.0                         95.0                          0.0                           180.0     TOP       PLACED    
+TP-1MMAA                                     TP-1MM                                       TP20                                         
+782.5                         185.0                         0.0                           0.0       TOP       PLACED    
+TP-1MMAA                                     TP-1MM                                       TP19                                         
+807.5                         185.0                         0.0                           0.0       TOP       PLACED    
+TP-1MMAA                                     TP-1MM                                       TP15                                         
+762.5                         7.5                           0.0                           0.0       TOP       PLACED    
+TP-1MMAA                                     TP-1MM                                       TP16                                         
+735.0                         7.5                           0.0                           0.0       TOP       PLACED    
+TP-1MMB                                      TP-1MM                                       TP3                                          
+422.0                         11.0                          0.0                           0.0       BOTTOM    PLACED    
+TP-1MMB                                      TP-1MM                                       TP1                                          
+462.0                         11.0                          0.0                           0.0       BOTTOM    PLACED    
+TP-1MMB                                      TP-1MM                                       TP2                                          
+382.5                         11.0                          0.0                           0.0       BOTTOM    PLACED    
+TP-1MMB                                      TP-1MM                                       TP14                                         
+60.0                          25.0                          0.0                           0.0       BOTTOM    PLACED    
+TP-1MMB                                      TP-1MM                                       TP13                                         
+110.0                         25.0                          0.0                           0.0       BOTTOM    PLACED    
+TP-1MMB                                      TP-1MM                                       TP8                                          
+110.0                         268.0                         0.0                           0.0       BOTTOM    PLACED    
+TP-1MMB                                      TP-1MM                                       TP9                                          
+60.0                          267.5                         0.0                           0.0       BOTTOM    PLACED    
+TP-1MMB                                      TP-1MM                                       TP7                                          
+284.0                         267.5                         0.0                           0.0       BOTTOM    PLACED    
+TP-1MMB                                      TP-1MM                                       TP17                                         
+230.0                         25.0                          0.0                           0.0       BOTTOM    PLACED    
+TP-1MMB                                      TP-1MM                                       TP18                                         
+300.0                         25.0                          0.0                           0.0       BOTTOM    PLACED    
+MARK                                         MARK                                         11                                           
+70.0                          145.0                         0.0                           0.0       TOP       PLACED    
+MARK                                         MARK                                         1                                            
+70.0                          145.0                         0.0                           0.0       BOTTOM    PLACED    
+QFN24                                        QFN24-4X4                                    U2                                           
+411.0                         138.0                         0.0                           270.0     TOP       PLACED    
+C0402B                                       C0402                                        C21                                          
+535.0                         30.0                          0.0                           180.0     TOP       PLACED    
+L0603                                        L0603                                        L2                                           
+600.0                         95.0                          0.0                           90.0      TOP       PLACED    
+.END_PLACEMENT
