@@ -1,0 +1,71 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\bleairnouse_20161230_v1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\bleairnouse_20161230_v1.dsn")
+      (Path "Design Resources" ".\bleairnouse_20161230_v1.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\bleairnouse_20161230_v1.dsn" "SCHEMATIC1"
+         "5:Interface"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 367"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1136 25 434")
+        (Scroll "0 120")
+        (Zoom "150")
+        (Occurrence "/"))
+      (Path
+         "E:\PROJECT\GIT_PROJ\BLE_AIRMOUSE\HARDWARE\20161230\BLEAIRNOUSE20161230\BLEAIRNOUSE_20161230_V1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "2:nrf51822"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1186 75 484")
+        (Scroll "-46 10")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\PROJECT\GIT_PROJ\BLE_AIRMOUSE\HARDWARE\20161230\BLEAIRNOUSE20161230\BLEAIRNOUSE_20161230_V1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "3:MISC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1211 100 509")
+        (Scroll "-46 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "E:\PROJECT\GIT_PROJ\BLE_AIRMOUSE\HARDWARE\20161230\BLEAIRNOUSE20161230\BLEAIRNOUSE_20161230_V1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "4:BLE_RF"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 125 1236 125 534")
+        (Scroll "2320 1708")
+        (Zoom "400")
+        (Occurrence "/"))
+      (Path
+         "E:\PROJECT\GIT_PROJ\BLE_AIRMOUSE\HARDWARE\20161230\BLEAIRNOUSE20161230\BLEAIRNOUSE_20161230_V1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "5:Interface")))
+  (MPSSessionName "xuhy"))

@@ -1,0 +1,141 @@
+.HEADER
+BOARD_FILE    3.0    "PADS Layout 9.5"    2016/12/29.11:33:51    1
+"l:\hd\xhy\kongshu\bleairnouse20161229.emn"    THOU
+.END_HEADER
+.BOARD_OUTLINE    UNOWNED
+27.09
+0     -14.0                         215.0                         0     
+0     -15.97                        215.0                         0     
+0     -15.97                        193.35                        0     
+0     -15.97                        161.85                        -180.0    
+0     -15.97                        130.35                        0     
+0     -15.97                        98.86                         -180.0    
+0     -15.97                        77.2                          0     
+0     -14.0                         77.2                          0     
+0     1.75                          61.46                         -90.0     
+0     1.75                          49.65                         0     
+0     1.75                          18.15                         -180.0    
+0     1.75                          2.4                           0     
+0     352.14                        2.4                           0     
+0     352.14                        -7.44                         0     
+0     1173.01                       -7.44                         0     
+0     1173.01                       45.71                         0     
+0     1129.45                       45.71                         0     
+0     1110.02                       69.9                          -160.4    
+0     1110.02                       222.3                         0     
+0     1129.45                       246.5                         -160.4    
+0     1173.01                       246.5                         0     
+0     1173.01                       299.65                        0     
+0     352.14                        299.65                        0     
+0     352.14                        289.8                         0     
+0     1.75                          289.8                         0     
+0     1.75                          274.06                        0     
+0     1.75                          242.56                        -180.0    
+0     1.75                          230.75                        0     
+0     -14.0                         215.0                         -90.0     
+1     1015.67                       245.0                         0     
+1     1036.34                       245.0                         360   
+2     1015.67                       48.0                          0     
+2     1036.34                       48.0                          360   
+3     186.01                        146.24                        0     
+3     211.6                         146.24                        360   
+.END_BOARD_OUTLINE
+.DRILLED_HOLES
+8.000000 90.000000 30.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 95.000000 255.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 247.500000 270.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 17.500000 110.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 77.500000 212.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 17.500000 182.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 226.000000 270.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 218.000000 116.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 215.000000 180.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 224.000000 234.000000 PTH    BOARD    VIA    UNOWNED
+19.685039 137.785039 106.890945 PTH    J1    PIN    UNOWNED
+19.685039 165.344094 240.749213 PTH    J1    PIN    UNOWNED
+19.685039 137.685039 185.709055 PTH    J3    PIN    UNOWNED
+19.685039 165.244094 51.850787 PTH    J3    PIN    UNOWNED
+27.559055 1.776535 258.954724 PTH    J4    PIN    UNOWNED
+27.559055 -15.940000 178.246063 PTH    J4    PIN    UNOWNED
+27.559055 -15.940000 115.253937 PTH    J4    PIN    UNOWNED
+27.559055 1.776535 34.545276 PTH    J4    PIN    UNOWNED
+8.000000 492.500000 125.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 812.500000 120.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 992.000000 90.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 839.000000 64.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 790.000000 10.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 315.000000 145.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 651.000000 131.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 412.000000 38.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 526.000000 36.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 850.000000 7.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 869.000000 7.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 874.000000 157.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 346.000000 212.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 808.000000 92.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 350.000000 45.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 830.000000 7.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 857.500000 100.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 382.000000 38.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 810.000000 10.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 824.000000 78.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 760.000000 178.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 850.000000 173.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 647.000000 170.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 485.000000 55.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 462.000000 140.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 632.000000 159.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 734.000000 154.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 382.000000 192.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 432.500000 155.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 432.500000 137.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 945.000000 180.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 485.000000 172.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 982.000000 34.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 862.500000 190.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 894.000000 186.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 830.000000 187.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 252.000000 144.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 692.500000 7.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 818.000000 142.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 687.500000 180.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 977.500000 52.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 615.000000 35.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 722.500000 127.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 865.000000 127.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 794.000000 50.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 958.000000 160.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 856.000000 74.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 803.000000 140.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 632.000000 128.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 1042.000000 98.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 556.000000 60.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 889.000000 49.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 612.500000 127.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 879.000000 139.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 510.000000 54.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 287.500000 35.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 325.000000 35.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 846.000000 120.000000 PTH    BOARD    VIA    UNOWNED
+12.000000 607.500000 10.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 687.500000 147.500000 PTH    BOARD    VIA    UNOWNED
+19.685039 280.000000 115.472441 PTH    J2    PIN    UNOWNED
+19.685039 280.000000 174.527559 PTH    J2    PIN    UNOWNED
+8.000000 1092.500000 102.500000 PTH    BOARD    VIA    UNOWNED
+8.000000 1084.000000 16.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 1054.000000 16.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 1104.000000 20.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 1054.000000 180.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 1086.000000 198.000000 PTH    BOARD    VIA    UNOWNED
+8.000000 1057.500000 110.000000 PTH    BOARD    VIA    UNOWNED
+.END_DRILLED_HOLES
+.PLACEMENT
+X2520                                        X2520                                        Y1                                           
+675.0                         70.0                          0.0                           90.0      BOTTOM    PLACED    
+EVQP4                                        EVQP4                                        SW3                                          
+1072.05                       147.95                        0.0                           90.0      TOP       MCAD      
+SW-3_5X2_7-SMD                               SW-3_5X2_7-SMD                               SW1                                          
+480.12                        146.57                        0.0                           0.0       BOTTOM    MCAD      
+SW-3_5X2_7-SMD                               SW-3_5X2_7-SMD                               SW2                                          
+854.13                        146.77                        0.0                           180.0     BOTTOM    MCAD      
+.END_PLACEMENT
